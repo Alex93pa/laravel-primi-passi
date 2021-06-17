@@ -15,5 +15,8 @@
         <input type="text" value="{{ $email }}">
 
     </form>
+    <button>
+    <a href="{{ route('home') }}">Torna alla pagina iniziale </a>
+    </button>
 </body>
 </html>
