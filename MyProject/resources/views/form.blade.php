@@ -9,9 +9,10 @@
 <body>
     <h1>CONTATTI</h1>
     <form action="">
-    
+
         <input type="text" value="{{ $name }}">
         <input type="text" value="{{ $surname }}">
+        <input type="text" value="{{ $email }}">
 
     </form>
 </body>
